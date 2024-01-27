@@ -1,0 +1,4 @@
+list_commands
+*************
+
+This will list the commands and create commands.txt, but it MUST be run from setup directory.

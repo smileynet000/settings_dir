@@ -1,0 +1,63 @@
+nas
+***
+
+cnasbackupdrive
+===============
+
+Creates a backup drive for the nas.
+
+dnasbackupdrive
+===============
+
+Deletes a backup drive for the nas.
+
+cnasdatafolders
+===============
+
+Creates data folders for the nas.
+
+dnasdatafolders
+===============
+
+Deletes data folders for the nas.
+
+cnasbmediafolders
+=================
+
+Creates media folders for the nas.
+
+dnasbmediafolders
+=================
+
+Deletes media folders for the nas.
+
+cnaspersonalfolders
+===================
+
+Creates personal folders (for a nas user) for the nas.
+
+dnaspersonalfolders
+===================
+
+Deletes personal folders (for a nas user) for the nas.
+
+cnassoftwarefolders
+===================
+
+Creates software folders for the nas.
+
+dnassoftwarefolders
+===================
+
+Deletes software folders for the nas.
+
+cnassoftwaredocsfolders
+=======================
+
+Creates software documentation folders for the nas.
+
+dnassoftwaredocsfolders
+=======================
+
+Deletes software documentation folders for the nas.
+

@@ -1,0 +1,13 @@
+names.sdr
+*********
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+names.sdr
+=========
+
+List of names of people in the house seperated by '\n'.
+

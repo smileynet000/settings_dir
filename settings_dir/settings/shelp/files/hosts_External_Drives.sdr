@@ -1,0 +1,18 @@
+hosts/External_Drives.sdr
+*************************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+hosts subdirectory
+==================
+
+Network hosts defined inside.
+
+External_Drives.sdr
+===================
+
+List of external drive hostnames in the network, seperated by '\n'.
+

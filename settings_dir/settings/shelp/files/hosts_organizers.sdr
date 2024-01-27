@@ -1,0 +1,18 @@
+hosts/organizers.sdr
+********************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+hosts subdirectory
+==================
+
+Network hosts defined inside.
+
+organizers.sdr
+==============
+
+List of organizers hostnames in the network, seperated by '\n'.
+

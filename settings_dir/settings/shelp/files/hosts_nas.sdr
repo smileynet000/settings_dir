@@ -1,0 +1,18 @@
+hosts/nas.sdr
+*************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+hosts subdirectory
+==================
+
+Network hosts defined inside.
+
+nas.sdr
+=======
+
+List of NAS hostnames in the network, seperated by '\n'.
+

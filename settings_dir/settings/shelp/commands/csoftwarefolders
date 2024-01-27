@@ -1,0 +1,23 @@
+csoftwarefolders
+****************
+
+csoftwarefolders
+================
+
+Creates software folders.
+
+dsoftwarefolders
+================
+
+Deletes software folders.
+
+
+cnassoftwarefolders
+===================
+
+Creates software folders for the NAS.
+
+dnassoftwarefolders
+===================
+
+Deletes software folders for the NAS.

@@ -1,0 +1,39 @@
+network_checks
+**************
+
+install_set_dns.sh
+==================
+
+Installs the set_dns program.
+
+
+remove_set_dns.sh
+=================
+
+Removes the set_dns program.
+
+
+set_dns.sh
+==========
+
+Checks the network. After install, completes a run every 6 minutes. However, if hour is partially through, it will run every 6 minutes after the hour, starting at the nearest time, when the computer is booted enough.
+
+
+set_dns-force_*
+===============
+
+* off - Turns force off.
+
+* on  - Turns force on.
+
+force means emulate success via flag. You cannot emulate success and failure at the same time!
+
+
+set_dns-rforce_*
+================
+
+* off - Turns rforce off.
+
+* on  - Turns rforce on.
+
+rforce means emulate failure via flag. You cannot emulate success and failure at the same time!

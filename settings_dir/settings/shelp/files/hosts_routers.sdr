@@ -1,0 +1,18 @@
+hosts/routers.sdr
+*******************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+hosts subdirectory
+==================
+
+Network hosts defined inside.
+
+routers.sdr
+===========
+
+List of router hostnames in the network, seperated by '\n'.
+

@@ -1,0 +1,33 @@
+cbackupdrive
+************
+
+cbackupdrive
+============
+
+Creates a backup drive the first way.
+
+dbackupdrive
+============
+
+Deletes a backup drive the first way.
+
+cbackupdrive2
+=============
+
+Creates a backup drive the second way.
+
+dbackupdrive2
+=============
+
+Deletes a backup drive the second way.
+
+cjbackupdrive
+=============
+
+Creates just a backup drive the first way (no data folders).
+
+djbackupdrive
+=============
+
+Deletes just a backup drive the first way (no data folders).
+

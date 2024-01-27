@@ -1,0 +1,48 @@
+mkhosts
+*******
+
+mkhostdirs
+==========
+
+Makes host directories from files.
+
+mkhostdirs2
+===========
+
+Makes host directories from files for cbackupdrive2.
+
+unmkhostdirs
+============
+
+Deletes hostdirs from files.
+
+mkchosts
+========
+
+Makes computer hosts from hosts/computers.sdr.
+
+mkchosts2
+=========
+
+Makes computer hosts from hosts/computers.sdr, with IMAGES, and OTHER subdirectories inside.
+
+mkrhosts
+========
+
+Makes router hosts from hosts/routers.sdr.
+
+mkohosts
+========
+
+Makes organizer hosts from hosts/organizers.sdr.
+
+mknashosts
+==========
+
+Makes NAS hosts from hosts/nas.sdr.
+
+mkextdrhosts
+============
+
+Makes external drive hosts from hosts/External_Drives.sdr.
+

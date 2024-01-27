@@ -1,0 +1,13 @@
+Hostname Configuration
+**********************
+
+
+get_hostname
+============
+
+This gets the host name.
+
+get_domainname
+==============
+
+This gets the domain name.

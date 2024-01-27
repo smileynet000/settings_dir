@@ -1,0 +1,123 @@
+os
+**
+
+mkosnames
+=========
+
+Makes OS directories from files.
+
+mkosnames2
+==========
+
+Makes OS directories from files (old).
+
+mkosnames3
+==========
+
+Makes OS directories from files (old).
+
+mknasosnames
+============
+
+Makes OS directories from files (old).
+
+mknasosnames2
+=============
+
+Makes OS directories from files (old).
+
+mknames
+=======
+
+Makes name directories for people in the house.
+
+mkversions
+==========
+
+Makes version directories for OS names.
+
+mktypes
+=======
+
+Makes the OS directories for OS names, part of the syntax of osnames.sdr.
+
+mknastypes
+==========
+
+Makes the OS directories for the NAS. Part of the syntax of osnames.sdr.
+
+mknastypes2
+===========
+
+Makes the OS directories for the NAS. Part of the syntax of osnames.sdr.
+
+mklinuxtypes
+============
+
+Make linux types hardcoded.
+
+mkwindowstypes
+==============
+
+Make windows types hardcoded.
+
+mkdostypes
+==========
+
+Make dos types hardcoded.
+
+mknaslinuxtypes
+===============
+
+Make NAS linux types hardcoded.
+
+mknaswindowstypes
+=================
+
+Make NAS windows types hardcoded.
+
+mknasdostypes
+=============
+
+Make NAS dos types hardcoded.
+
+mkhostdirs2
+===========
+
+Makes host directories from files for cbackupdrive2.
+
+unmkhostdirs
+============
+
+Deletes hostdirs from files.
+
+mkchosts
+========
+
+Makes computer hosts from hosts/computers.sdr.
+
+mkchosts2
+=========
+
+Makes computer hosts from hosts/computers.sdr, with IMAGES, and OTHER subdirectories inside.
+
+mkrhosts
+========
+
+Makes router hosts from hosts/routers.sdr.
+
+mkohosts
+========
+
+Makes organizer hosts from hosts/organizers.sdr.
+
+mknashosts
+==========
+
+Makes NAS hosts from hosts/nas.sdr.
+
+mkextdrhosts
+============
+
+Makes external drive hosts from hosts/External_Drives.sdr.
+

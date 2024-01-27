@@ -1,0 +1,23 @@
+Operating_Systems/osnames.sdr
+*****************************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+Operating_Systems subdirectory
+==============================
+
+Network Operating Systems defined inside.
+
+osnames.sdr
+===========
+
+Sytax:
+------
+
+Folder {file containing types (must use full path!), "(none)", if no types}
+
+* Same syntax for subtypes!
+

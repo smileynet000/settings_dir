@@ -1,0 +1,10 @@
+flags/set_dns Directory
+***********************
+
+This is a flag directory.
+
+set_dns subdirectory
+====================
+
+set_dns flags defined inside.
+

@@ -1,0 +1,18 @@
+hosts/computers.sdr
+*******************
+
+.sdr extension
+==============
+
+.sdr = Standard Directory File
+
+hosts subdirectory
+==================
+
+Network hosts defined inside.
+
+computers.sdr
+=============
+
+List of computer hostnames in the network, seperated by '\n'.
+
