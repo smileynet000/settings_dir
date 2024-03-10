@@ -37,3 +37,31 @@ set_dns-rforce_*
 * on  - Turns rforce on.
 
 rforce means emulate failure via flag. You cannot emulate success and failure at the same time!
+
+
+set_dns-force2_*
+================
+
+* off - Turns force2 off.
+
+* on  - Turns force2 on.
+
+force2 means use your own resolv.conf. You need with on, $1 set to resolv.conf to use!
+
+
+set_dns-copy_resolv.sh
+======================
+
+Copy the /etc/resolv.conf to /etc/settings/resolv.conf.
+
+
+set_dns-display_resolv.sh
+=========================
+
+Display the current resolv.conf.
+
+
+set_dns-display_resolv2.sh
+=========================
+
+Display the current resolv.conf in /etc/settings.
